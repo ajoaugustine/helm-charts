@@ -1,5 +1,9 @@
 # Datadog changelog
 
+# 3.5.3
+
+* Add `providers.aks.admissionControllerSelectors` parameter to activate specific Admission Controller label selectors for AKS.
+
 ## 3.5.2
 
 * Fix API Key check in NOTES.txt following change of default value for `datadog.apiKey`.
